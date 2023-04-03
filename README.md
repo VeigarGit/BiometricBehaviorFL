@@ -23,3 +23,14 @@ In this Jupyter project, we do a complete analysis of BrainRun to understand how
 # federated_run_biometric_behavior.py
 
 The python file is for running our simulation federated learning. In this, we choose some Convolutional neural networks to evaluate and the metrics we search to identify users like the False positive rate and rejection rate. Thus, we made a code to run federated learning in his main strategy FedAVG. We use some CNNs from Sktime-dl to run users using gyroscope sensors as unique identifiers.
+
+## Citation
+
+If you publish work that uses our project, please cite as follows: 
+
+```bibtex
+@article{veigafederated,
+  title={A Federated Learning Approach for Authentication and User Identification based on Behavioral Biometrics},
+  author={Veiga, Rafael and Both, Cristiano B and Medeiros, Iago and Ros{\'a}rio, Denis and Cerqueira, Eduardo}
+}
+```
